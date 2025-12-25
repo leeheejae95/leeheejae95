@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋, I'm Growing Backend Engineer, 이희재</h1>
 <h3 align="left">새로운 기술을 탐구하며 견고한 시스템을 설계하는 백엔드 개발자입니다.</h3>
 
-- 🔭 I’m currently working on **Building scalable & robust backend services with Spring Boot**
+- 🔭 I’m currently working on : **Building scalable & robust backend services with Spring Boot**
 
-- 🌱 I’m currently learning **System Design, DB Optimization, and Advanced Algorithms**
+- 🌱 I’m currently learning : **System Design, DB Optimization, and Advanced Algorithms**
 
-- 💬 Ask me about **Java, JPA/Hibernate, and Clean Architecture**
+- 💬 Ask me about : **Java, JPA/Hibernate, and Clean Architecture**
 
-- 📫 How to reach me **leeheejae55@naver.com**
+- 📫 How to reach me : **leeheejae55@naver.com**
 
-- ⚡ Fun fact **I enjoy the process of refactoring for better performance.**
+- ⚡ Fun fact : **I enjoy the process of refactoring for better performance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
