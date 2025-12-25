@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Hi 👋, I'm Growing Backend Engineer, 이희재</h1>
 <h3 align="left">새로운 기술을 탐구하며 견고한 시스템을 설계하는 백엔드 개발자입니다.</h3>
 
