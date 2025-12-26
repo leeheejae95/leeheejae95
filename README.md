@@ -7,11 +7,10 @@
 
 - 💬 기술적 대화 : **Java 생태계의 최신 트렌드와 Spring Boot 기반의 아키텍처 설계, 그리고 효율적인 백엔드 개발을 위한 다양한 오픈소스 활용에 대해 이야기 나누고 싶습니다.**
 
-- 📫 연락처 : **leeheejae55@naver.com**
-
 - ⚡ 한 줄 소개 : **더 나은 성능을 위한 리팩토링 과정에서 즐거움을 느낍니다.**
 
-<h3 align="left">Connect with me:</h3> **leeheejae55@naver.com**
+- 📫 연락처 : **leeheejae55@naver.com**
+
 <p align="left">
 </p>
 
