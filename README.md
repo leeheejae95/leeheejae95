@@ -11,7 +11,7 @@
 
 - ⚡ 한 줄 소개 : **더 나은 성능을 위한 리팩토링 과정에서 즐거움을 느낍니다.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> **leeheejae55@naver.com**
 <p align="left">
 </p>
 
